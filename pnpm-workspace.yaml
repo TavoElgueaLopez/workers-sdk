@@ -102,21 +102,21 @@ catalog:
   chalk: "5.3.0"
   command-exists: "1.2.9"
   dotenv: "16.3.1"
-  "@hey-api/openapi-ts": "0.94.0"
+  "@hey-api/openapi-ts": "0.97.3"
   "@types/node": "22.15.17"
 
   "@vitest/runner": 4.1.0
   "@vitest/snapshot": 4.1.0
   "@vitest/ui": 4.1.0
   typescript: "5.8.3"
-  undici: "7.24.8"
+  undici: "7.29.0"
   # Override undici-types from @types/node so that the Cloudflare SDK typings match our installed
   # version of Undici
   undici-types: "7.24.8"
   vitest: "4.1.0"
-  vite: "8.0.13"
-  "ws": "8.20.1"
-  esbuild: "0.27.3"
+  vite: "8.0.16"
+  "ws": "8.21.0"
+  esbuild: "0.28.1"
   playwright-chromium: "1.60.0"
   "@cloudflare/workers-types": "^4.20260616.1"
   workerd: "1.20260616.1"

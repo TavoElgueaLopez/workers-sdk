@@ -50,7 +50,7 @@
 		"oxlint": "^1.56.0",
 		"oxlint-tsgolint": "^0.17.0",
 		"tree-kill": "catalog:default",
-		"turbo": "^2.7.2",
+		"turbo": "^2.9.14",
 		"typescript": "catalog:default",
 		"vitest": "catalog:default"
 	},
